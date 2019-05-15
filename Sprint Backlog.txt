@@ -6,4 +6,8 @@ The Goddess's Wardrobe project's four functions:
 
 
 First Week:(add)
+Product manager:ZhenRan Huang
+Project manager:HongRui Zhou
+member:YingYin Zhang, ShaoCong li
+
 1.achieve the add function.

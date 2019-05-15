@@ -6,5 +6,9 @@ The Goddess's Wardrobe project's four functions:
 
 
 First Week:(add)
+Product manager:ZhenRan Huang
+Project manager:HongRui Zhou
+member:YingYin Zhang, ShaoCong li
+
 1.As a develper, I need to achieve the add function in the web.
 2.The add function can help the boss of web to add the clothes to show in the web with client.
