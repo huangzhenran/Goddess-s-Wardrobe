@@ -1,0 +1,9 @@
+The Goddess's Wardrobe project's four functions:
+1.Add.
+2.delete.
+3.change
+4.check
+
+
+First Week:(add)
+1.achieve the add function.
