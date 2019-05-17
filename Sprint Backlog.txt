@@ -6,10 +6,46 @@ The Goddess's Wardrobe project's four functions:
 
 
 First Week:(add)
-Product manager:ZhenRan Huang
-Project manager:HongRui Zhou
-member:YingYin Zhang, ShaoCong li
+Product manager:  ZhenRan Huang
+Project manager:  HongRui Zhou
+members:  YingYin Zhang, ShaoCong li
 
+<<<<<<< HEAD
+1.achieve the add function.
+2.Try adding our work to our web with add functionality
+3.Combine the added functionality with some of what you've learned
+
+
+Second Week:(delete)
+Product manager:  ShaoCong Li
+Project manager:  YingYin Zhang
+menbers:  ZhenRan Huang, HongRui Zhou
+
+1.In the future, I will implement the modification function of the web page.
+If the description of clothes is wrong, we need to modify it.
+We need to modify the button function in the case of errors in the button function of the web page.
+In the case of an error in the description of a web page, we need to modify the description of the web page.
+
+2.Meeting content:Continue to adjust the direction of the development of web pages, 
+continue to think of ways to achieve the remaining web page functions.
+We must continue to work hard.
+The remaining three members answered three questions each.
+
+ShaoCong Li:  In order to get us to our goal, I invited them to dinner yesterday and encouraged them all.
+ In order to help the team achieve the goal,
+                       I will continue to provide material support to the team today.  Contradictions among team members.
+
+YingYin Zhang: As a scrum master, I tried to achieve the delete function in the project. Now, I have some
+question in the delete function.And we have tried to do it now. 
+
+ZhenRan Huang:  Yesterday, I provided my opinion on how to realize the function of web pages.
+And, I help the product owner and scrum master to make the project better.
+
+HongRui Zhou: I had read some web of the delete functions. I found that have one thing in common that
+it is important in the user.
+
+3.I found the delete function is easier than the add function.
+=======
 1.achieve the delete function in future.
 2.daily meeting:
 
@@ -28,3 +64,4 @@ YingYin: I am very happy to join the team. The Product Owner and Scrum Master ar
 
 3.planing review: I felt our planing is perfect.
 
+>>>>>>> b9cd4ba3eb6b0a2b93438d709bcbbb259570ed1b
