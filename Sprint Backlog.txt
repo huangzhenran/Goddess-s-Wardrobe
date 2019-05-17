@@ -10,10 +10,30 @@ Product manager:  ZhenRan Huang
 Project manager:  HongRui Zhou
 members:  YingYin Zhang, ShaoCong li
 
-<<<<<<< HEAD
-1.achieve the add function.
-2.Try adding our work to our web with add functionality
-3.Combine the added functionality with some of what you've learned
+
+1.achieve the delete function in future.
+2.daily meeting:
+
+(1).how to achieve the add function.
+(2).The add function main to add the clothes in the web, and show to the user.
+(3).where we begin to do it?
+(4).How we can do it?
+
+ZhenRan: I made some order to our team, such as, we need to the add function to add the clothes in our web. Today, I will check the function in the project.
+
+HongRui:I created a database in the project and two class to make our project better.Today, I will continues to do it better.But, when I input the data in the 
+database which have some questions to stop my job.
+
+ShaoCong: The project made me Annoyed. But , I was happy to do it. I felt that life was very fulfilling. My task is help the scrum master to find the data to achieve 
+the program. Today, I will continue to help the scrum master .
+
+YingYin: I am very happy to join the team. The Product Owner and Scrum Master are very nice man. My task is help the Product Owner to determine the demand. 
+Our project is a show clothes web. My other task is find the clothes picture.
+
+3.planing review: I felt our planing is perfect.
+
+===========================================================
+
 
 
 Second Week:(delete)
@@ -45,23 +65,3 @@ HongRui Zhou: I had read some web of the delete functions. I found that have one
 it is important in the user.
 
 3.I found the delete function is easier than the add function.
-=======
-1.achieve the delete function in future.
-2.daily meeting:
-
-(1).how to achieve the add function.
-(2).The add function main to add the clothes in the web, and show to the user.
-(3).where we begin to do it?
-(4).How we can do it?
-
-ZhenRan: I made some order to our team, such as, we need to the add function to add the clothes in our web. Today, I will check the function in the project.
-
-HongRui:I created a database in the project and two class to make our project better.Today, I will continues to do it better.But, when I input the data in the database which have some questions to stop my job.
-
-ShaoCong: The project made me Annoyed. But , I was happy to do it. I felt that life was very fulfilling. My task is help the scrum master to find the data to achieve the program. Today, I will continue to help the scrum master .
-
-YingYin: I am very happy to join the team. The Product Owner and Scrum Master are very nice man. My task is help the Product Owner to determine the demand. Our project is a show clothes web. My other task is find the clothes picture.
-
-3.planing review: I felt our planing is perfect.
-
->>>>>>> b9cd4ba3eb6b0a2b93438d709bcbbb259570ed1b
