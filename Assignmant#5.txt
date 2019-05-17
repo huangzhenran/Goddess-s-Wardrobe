@@ -1,0 +1,15 @@
+1.Team Name:Goddess's Wardrode
+2.GitHub project's name:Goddess-s-Wardrobe
+3.GitHub repository's name:huangzhenran/Goddess-s-Wardrobe
+
+4.Name of the Product Owner:
+first week:ZhenRan Huang
+second week:ShaoCong Li
+third week:HongRui Zhou
+fourth week:YingYin Zhang
+
+5.Name of the Scrum Master:
+first week:HongRui Zhou
+second week:YingYin Zhang
+third week:ShaoCong Li
+fourth week:ZhenRan Huang
