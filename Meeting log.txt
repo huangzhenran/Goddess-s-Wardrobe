@@ -13,4 +13,4 @@ member:YingYin Zhang, ShaoCong li
 1.how to achieve the add function.
 2.The add function main to add the clothes in the web, and show to the client.
 3.where we begin to do it?
-4.
+4.How we can use it

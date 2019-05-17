@@ -11,3 +11,5 @@ Project manager:HongRui Zhou
 member:YingYin Zhang, ShaoCong li
 
 1.achieve the add function.
+2.Try adding our work to our web with add functionality
+3.Combine the added functionality with some of what you've learned
