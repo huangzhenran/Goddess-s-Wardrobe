@@ -12,5 +12,5 @@ member:YingYin Zhang, ShaoCong li
 
 1.As a develper, I need to achieve the add function in the web.
 2.The add function can help the boss of web to add the clothes to show in the web with client.
-3.Adding features can help us update our clothes in the future
-4.Adding functionality can make our web even better
+3.The add function, when you need to update your web, update your clothes, if you didn't have the add function, you will can't update your web. So, the add function can help you make better in your web. It is convenient for you.
+4.Now,the add function is very popular. Every web have to use it. 
