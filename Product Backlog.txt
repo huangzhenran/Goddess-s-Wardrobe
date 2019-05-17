@@ -14,3 +14,29 @@ member:YingYin Zhang, ShaoCong li
 2.The add function can help the boss of web to add the clothes to show in the web with client.
 3.The add function, when you need to update your web, update your clothes, if you didn't have the add function, you will can't update your web. So, the add function can help you make better in your web. It is convenient for you.
 4.Now,the add function is very popular. Every web have to use it. 
+
+Second Week:(delete)
+
+Product manager:  ShaoCong Li
+Project manager:  YingYin Zhang
+members:  ZhenRan Huang, HongRui Zhou
+
+
+
+1.The display of clothes can not remain unchanged. 
+   The display of clothes will be updated with time and season.
+   The delete function can  help the seasonal adjustment can be realized by taking clothes off the shelves.
+   Every season has the most popular clothes, which can enhance people's purchasing power.
+   We have to implement the deletion function to manage our web pages.
+   This is the most important aspect for us.
+   As a develper, I need to achieve the delete function in the web.
+2.When a customer's order is wrong, we need to delete the order record.
+   When negative comments appear in the comments section of the page, we need to delete them.
+   When clothes are displayed for renewal, we need to take outdated clothes off the shelves.
+3.As for our workload, it's not too much or too little.
+   When one day our web pages need to be updated a lot, our workload will suddenly increase a lot.
+   Anyway, managing pages is something we have to do every day.
+4.Our project can provide great value to customers.
+We can provide the latest fashion matches. We can sell all kinds of clothes. 
+We can provide the best service attitude. We take the customer center as our consideration. 
+We can provide the best after-sales service. We can lead the trend.
