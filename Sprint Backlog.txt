@@ -65,3 +65,38 @@ HongRui Zhou: I had read some web of the delete functions. I found that have one
 it is important in the user.
 
 3.I found the delete function is easier than the add function.
+= = == =  == = = = = = = = = = = = = = = = = = == = = =  
+Third week£ºthe functions is change 
+Product manager:Hongrui Zhou 
+Project manager :ShaocongLi
+
+
+1.I will achieve the change function in this week
+2.daily meeting:
+
+<1>How to achieve the change function 
+<2>Where do you think this function can be applied
+<3>What we need to do to implement this functionality
+<4>Can this function be combined with previous functions?
+  
+Hongrui Zhou:The "ADD" and "delete" we implemented two weeks ago, in my opinion, 
+this function this week will be more convenient to update our products in the future.
+
+
+Zhenran Huang:I tried to use this function today, and I found that this function works in the same way as 
+the function in the first week before, but it will be easier.
+
+
+YingYin:I think if we can make good use of this function, it will be very
+ helpful for us to update our clothes in the future.
+
+
+ShaoCong:I looked up some information about this function on the Internet today. 
+I will cooperate with you to realize this function.
+
+
+
+3.PLANING REVIEW:I think this feature will speed up our product development
+
+
+
