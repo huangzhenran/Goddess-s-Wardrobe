@@ -65,7 +65,7 @@ namespace Goddess_s_Wardrode1
             app.UseCookiePolicy();
 
             app.UseAuthentication();
-
+            DummyData.Initialize(app);
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
