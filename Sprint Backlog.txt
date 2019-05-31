@@ -1,0 +1,102 @@
+The Goddess's Wardrobe project's four functions:
+1.Add.
+2.delete.
+3.change
+4.check
+
+
+First Week:(add)
+Product manager:  ZhenRan Huang
+Project manager:  HongRui Zhou
+members:  YingYin Zhang, ShaoCong li
+
+
+1.achieve the delete function in future.
+2.daily meeting:
+
+(1).how to achieve the add function.
+(2).The add function main to add the clothes in the web, and show to the user.
+(3).where we begin to do it?
+(4).How we can do it?
+
+ZhenRan: I made some order to our team, such as, we need to the add function to add the clothes in our web. Today, I will check the function in the project.
+
+HongRui:I created a database in the project and two class to make our project better.Today, I will continues to do it better.But, when I input the data in the 
+database which have some questions to stop my job.
+
+ShaoCong: The project made me Annoyed. But , I was happy to do it. I felt that life was very fulfilling. My task is help the scrum master to find the data to achieve 
+the program. Today, I will continue to help the scrum master .
+
+YingYin: I am very happy to join the team. The Product Owner and Scrum Master are very nice man. My task is help the Product Owner to determine the demand. 
+Our project is a show clothes web. My other task is find the clothes picture.
+
+3.planing review: I felt our planing is perfect.
+
+===========================================================
+
+
+
+Second Week:(delete)
+Product manager:  ShaoCong Li
+Project manager:  YingYin Zhang
+menbers:  ZhenRan Huang, HongRui Zhou
+
+1.In the future, I will implement the modification function of the web page.
+If the description of clothes is wrong, we need to modify it.
+We need to modify the button function in the case of errors in the button function of the web page.
+In the case of an error in the description of a web page, we need to modify the description of the web page.
+
+2.Meeting content:Continue to adjust the direction of the development of web pages, 
+continue to think of ways to achieve the remaining web page functions.
+We must continue to work hard.
+The remaining three members answered three questions each.
+
+ShaoCong Li:  In order to get us to our goal, I invited them to dinner yesterday and encouraged them all.
+ In order to help the team achieve the goal,
+                       I will continue to provide material support to the team today.  Contradictions among team members.
+
+YingYin Zhang: As a scrum master, I tried to achieve the delete function in the project. Now, I have some
+question in the delete function.And we have tried to do it now. 
+
+ZhenRan Huang:  Yesterday, I provided my opinion on how to realize the function of web pages.
+And, I help the product owner and scrum master to make the project better.
+
+HongRui Zhou: I had read some web of the delete functions. I found that have one thing in common that
+it is important in the user.
+
+3.I found the delete function is easier than the add function.
+= = == =  == = = = = = = = = = = = = = = = = = == = = =  
+Third week£ºthe functions is change 
+Product manager:Hongrui Zhou 
+Project manager :ShaocongLi
+
+
+1.I will achieve the change function in this week
+2.daily meeting:
+
+<1>How to achieve the change function 
+<2>Where do you think this function can be applied
+<3>What we need to do to implement this functionality
+<4>Can this function be combined with previous functions?
+  
+Hongrui Zhou:The "ADD" and "delete" we implemented two weeks ago, in my opinion, 
+this function this week will be more convenient to update our products in the future.
+
+
+Zhenran Huang:I tried to use this function today, and I found that this function works in the same way as 
+the function in the first week before, but it will be easier.
+
+
+YingYin:I think if we can make good use of this function, it will be very
+ helpful for us to update our clothes in the future.
+
+
+ShaoCong:I looked up some information about this function on the Internet today. 
+I will cooperate with you to realize this function.
+
+
+
+3.PLANING REVIEW:I think this feature will speed up our product development
+
+
+
