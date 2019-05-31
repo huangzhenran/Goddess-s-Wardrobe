@@ -98,5 +98,22 @@ I will cooperate with you to realize this function.
 
 3.PLANING REVIEW:I think this feature will speed up our product development
 
+Week 4 :(check)
+Product manager: YingYin Zhang
+Project manager: Zhenran Huang
+Members: ShaoCong , Hongrui Zhou
+1. Future implementation of view function.
+2. Daily meetings:
+(1). How to implement the view function.
+(2). The view function is mainly to view the types of clothes on the web and display them to the user.
+(3). How do we implement this functionality?
+YingYin Zhang: I plan for our team. First we need to be able to view clothes on our website. What is the material of the clothes? What is the size of the clothes? What is the style of the clothes? And so on, to be able to view. Today, I'll examine the view feature in the project.
 
+Zhenran Huang: I tried to implement the view function in the project. However, the realization of clothing inspection is somewhat complicated and difficult. Looking at photos of clothes is in line with the current trend of aesthetics. Looking at clothes using links takes many steps, 
+and we are now trying to make it look more perfect.
+ShaoCong Li: I put forward my own views on how to realize the deletion function, gave a lot of opinions, conducted a questionnaire survey, and looked for a lot of current fashion clothes. I helped product owners and Scrum Master make the project better.
+Hongrui Zhou: I found that many websites have clean clothes to view, but they have to open to see, so that the pictures can be enlarged. I put forward my opinions on whether the size of the clothes pictures should be the same size. The same size looks neat but single. If the size is different, 
+it will look messy and take a lot of effort in the field of art. At present, the selection of specifications of the same size and engineering degree of the United States are discussed.
+3.Plan Comment: At present, everyone has put forward a lot of opinions, can think of, are also implemented, unexpected may also have, but try my best, I think very good, everyone is very cooperative in the work, there is no big problem for the time being, I hope to continue to work hard.
+4.Plan review: We have realized the function of looking at clothes. We can check the clothes styles, cloth sizes and so on, which can make the buyer know our clothes more clearly. There are some difficulties with the implementation, code, method and complexity of view, but we will try to overcome them.
 

@@ -56,3 +56,11 @@ which will be very helpful for our future product replacement and modification, 
 2>So to achieve this function will not be so easy,
  so we need to look up some relevant knowledge on the Internet
 
+Week 4 :(check)
+Product manager: YingYin Zhang
+Project manager: Zhenran Huang
+Members: ShaoCong , Hongrui Zhou
+1. As a developer, I need to implement add functions on the network.
+2. Adding functionality can help web owners add clothes and clients to be displayed on the web.
+3. Add functionality. When you need to update your web page, update your clothes. If you don't add functionality, you can't update your web page. Therefore, adding functionality can help you do better in the network. It's very convenient for you.
+4. Adding functionality is very popular now. Every website must use it.
